@@ -1,0 +1,23 @@
+{
+  "name": "20241016produce-gsc-un",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "k96mz",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@mapbox/tilebelt": "^2.0.0",
+    "better-queue": "^3.8.12",
+    "cli-spinner": "^0.2.10",
+    "config": "^3.3.12",
+    "hh-mm-ss": "^1.2.0",
+    "hjson": "^3.2.2",
+    "pg": "^8.13.0",
+    "prettysize": "^2.0.0",
+    "winston": "^3.15.0",
+    "winston-daily-rotate-file": "^5.0.0"
+  }
+}
